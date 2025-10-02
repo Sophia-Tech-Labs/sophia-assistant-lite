@@ -20,7 +20,7 @@
     "@google/genai": "^1.7.0",
     "@hapi/boom": "^10.0.1",
     "axios": "^1.10.0",
-    "baileys": "github:WhiskeySockets/Baileys",
+    "baileys": "^6.7.19",
     "better-sqlite3": "^12.1.1",
     "dotenv": "^16.5.0",
     "express": "^5.1.0",

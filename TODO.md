@@ -1,0 +1,1 @@
+Ask king David for the proxy he made for his bot.. Use .env to track and make it accessible for all. this makes sure only u know how to change the socket url directly from ur env
