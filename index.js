@@ -8,9 +8,9 @@ const app = express();
 app.get("/",(req,res)=>{
 	res.send("Whatsapp bot working")
 })
-startBot()
 keepAlive()
+startBot()
  const PORT = process.env.PORT || 8000;
-app.listen(PORT, () => {
+app.listen(PORT, async () => {
 	console.log("Server Running On Port: ",PORT)
 })
