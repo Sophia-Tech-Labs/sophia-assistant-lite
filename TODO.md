@@ -1,5 +1,3 @@
-Ask king David for the proxy he made for his bot.. Use .env to track and make it accessible for all. this makes sure only u know how to change the socket url directly from ur env
-
 [IMPORTANT] Add more commands to the new command registry format and test..
 
 Create a route for the edit bot side of the frontend.. add a place to change the bot name and let the bot name reflect on the whatsapp ai..
